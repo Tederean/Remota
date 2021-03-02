@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VnttfAgs673Tly7RhtZvRt3i3g+6SWoR8DmZN1uFwltwfhR0gCARJl16wXqoXu/AAz9Tyz4W4hV87sjMuVWiCA==",
+  "dgSpecHash": "ABk965YoGiUdRRfdCIga9L1IlkbxL/v8MRUbTVC9BMNQHXReqsWJAn+Wos+fJXuILrNGW5eyRFB/5Y9zOFQjvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
+  "projectFilePath": "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shitl\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\shitl\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

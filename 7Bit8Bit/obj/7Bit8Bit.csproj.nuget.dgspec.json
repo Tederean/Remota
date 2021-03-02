@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj": {}
+    "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj": {
+    "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
+        "projectUniqueName": "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
         "projectName": "7Bit8Bit",
-        "projectPath": "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
+        "projectPath": "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\7Bit8Bit.csproj",
         "packagesPath": "C:\\Users\\shitl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shitl\\source\\repos\\Remota\\7Bit8Bit\\obj\\",
+        "outputPath": "C:\\Users\\shitl\\Source\\Repos\\Remota\\7Bit8Bit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shitl\\AppData\\Roaming\\NuGet\\NuGet.Config",
